@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Hello {
 
+    //Hello darkness my old friend
+    //Github is hard as fuck to uuuuuse
+
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
 
